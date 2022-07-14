@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">pets</string>
+    <string-array name="pets_gender">
+        <item>Male</item>
+        <item>Female</item>
+        <item>Unknown</item>
+    </string-array>
+</resources>
